@@ -1,0 +1,2 @@
+asynqp~=0.5.1
+envparse~=0.2.0
